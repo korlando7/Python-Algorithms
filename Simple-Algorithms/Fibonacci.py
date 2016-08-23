@@ -1,5 +1,4 @@
 #finds nth fibonacci number in the sequence using python3
-import random
 
 n = int(input("Enter number: "))
 
